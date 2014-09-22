@@ -60,6 +60,8 @@ Implementation of the RESTful web service is supported by the [Jersey](https://j
 
 Data are extracted from database using SPARQL queries.
 
+#5. Licence
+
 This application has been developed as a part of the project assignment for the course [Intelligent Systems](http://is.fon.rs/) at the Faculty of Organization Sciences, University of Belgrade, Serbia.
 This software is licensed under the MIT License.
 The MIT License (MIT)
