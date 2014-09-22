@@ -14,7 +14,7 @@ Application workflow consists of the following phases:
 
 Data about companies from the opencorporates.com and crunchbase.com websites are analyzed in order to determine which classes and properties from the [schema:Oraganization](http://www.schema.org/Organization) vocabulary are supported. Based on that analysis, domain model, depicted on Figure 1, is created.
 
-![domainmodel](https://cloud.githubusercontent.com/assets/8823815/4359746/92845e70-4274-11e4-84b0-bb8e51e5e42c.jpg)
+![domainmodel copy](https://cloud.githubusercontent.com/assets/8823815/4364590/6d4226b0-42a1-11e4-8351-9e6d6217903f.png)
 
 Figure 1. Domain model
 
