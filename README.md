@@ -42,7 +42,7 @@ Figure 4 illustrates the information the application provides about a specific c
 
 Figure 2. Filtering based on the country that companies operate in
 
-![figure3](https://cloud.githubusercontent.com/assets/8823815/4350517/ad3fe12a-41ee-11e4-8995-53c9094b1288.png)
+![figure2](https://cloud.githubusercontent.com/assets/8823815/4364432/fcb41ac6-429f-11e4-983c-a9d2ba6ad345.png)
 
 Figure 3. Filtering based on the country and partial name of the company
 
