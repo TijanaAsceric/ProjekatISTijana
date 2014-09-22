@@ -46,7 +46,7 @@ Figure 2. Filtering based on the country that companies operate in
 
 Figure 3. Filtering based on the country and partial name of the company
 
-![figure4](https://cloud.githubusercontent.com/assets/8823815/4350528/8346b91a-41ef-11e4-82e4-a565041e8d86.png)
+![figure3](https://cloud.githubusercontent.com/assets/8823815/4364460/357006cc-42a0-11e4-906c-ebda9684e64f.png)
 
 Figure 4. Detail of the selected company
 
